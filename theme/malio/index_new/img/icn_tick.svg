@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icn_tick</title>
+    <g id="icn_tick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-34">
+            <circle id="Oval-Copy-3" fill="#1E98F5" cx="64" cy="64" r="64"></circle>
+            <path d="M93.6873844,39.0136415 C95.706693,37.1300667 98.8706051,37.2401007 100.75418,39.2594093 C102.582355,41.2193264 102.532469,44.2575076 100.681629,46.156746 L100.508412,46.3262047 L51.8772624,91.688468 L27.4905796,66.2800623 C25.5784256,64.2877953 25.6433701,61.1226366 27.6356372,59.2104826 C29.5693081,57.3545684 32.6078917,57.361163 34.5333075,59.1847548 L34.7052169,59.3555401 L52.265,77.651 L93.6873844,39.0136415 Z" id="Path-16-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
